@@ -63,4 +63,7 @@ button{
         height: 50px;
         margin: 5px;
     }
+    input{
+        font-size: 25px;
+    }
 }
